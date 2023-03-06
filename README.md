@@ -8,6 +8,7 @@ These results demonstrate for the first time that (i) the application of attenti
 ![](ppt/CWTDM_AccTPR_detailed_balancing_.gif) 
 ![](ppt/NoisySignals_2Hz12.gif)
 ![](ppt/WaveletcrossPSD_2Hz12_.gif)
+![](ppt/PSD-GUI.gif)
 ![](ppt/Diapositive1.PNG)
 ![](ppt/Diapositive2.PNG)
 ![](ppt/Diapositive3.PNG)
