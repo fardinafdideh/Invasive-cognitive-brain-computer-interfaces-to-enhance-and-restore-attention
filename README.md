@@ -4,12 +4,44 @@ We found that attention position was encoded differently after the NF. Specifica
 These results demonstrate for the first time that (i) the application of attention-related NF modulates how the prefrontal cortex encodes information and (ii) these changes are a functional signature that accounts for behaviour. Altogether, our data envision the feasibility of the NF-based interventions in the attention domain with potential applications in healthy population or as a treatment for attention disorders.
 
 ![](ppt/NF2021.png)
+
+## Time-resolved Results:
+* Cross/Within-temporal Spatial Decoding Map;
+* Temporal Analysis:
+  * Raw Accuracy Time-series;
+  * Granger Causality Test.
+* Spectral Analysis:
+  * Auto/Cross-wavelet Power Spectral Density (PSD);
+  * Coherence Spectral Analysis;
+  * Granger Causality Spectral Analysis;
+  * Phase Slope Index.
+* Time-frequency Representation:
+  * Auto/Cross-spectrogram;
+  * Coherogram.
+* Relative Phase Analysis:
+  * From Cross-spectrogram;
+  * From Cross-coherogram.
 ![](ppt/Instantaneous.gif)
+
+## The Effect of Class Balancing Techniques on the Cross/Within-Temporal Decoding Maps (Accuracy and True Positive Rate):
+* Minimum;
+* Synthetic Minority Oversampling Technique (SMOTE);
+* BorderlineSMOTE;
+* SafeLevelSMOTE;
+* ADASYN.
 ![](ppt/CWTDM_AccTPR_detailed_balancing_.gif) 
+
+## Significance of the Cross-wavelet PSD Peak Considering the Relative Phase Tested on Simulated Noisy (Different SNRs) Oscillatory (Different Frequencies) Time-series
 ![](ppt/NoisySignals_2Hz12.gif)
 ![](ppt/WaveletcrossPSD_2Hz12_.gif)
+
+## Cross/Within-Temporal Decoding Map PSD (Regular and Baseline-corrected) Computation, Visualisation and Statistical Test (Two/one-sided Wilcoxon Signed Rank Sum) for All Experimental Conditions and their Combinations 
 ![](ppt/PSD-GUI.gif)
+
+## Cross/Within-Temporal Decoding Map PSD (Regular and Corrected Versions) Computation, Visualisation, Statistical Test (Two/one-sided Wilcoxon Signed Rank Sum), and Behavioural Analysis for All Experimental Conditions and their Combinations 
 ![](ppt/PSD-GUI2.gif)
+
+## Exploratory Research on Non-human Primate Bio-signals
 ![](ppt/Diapositive1.PNG)
 ![](ppt/Diapositive2.PNG)
 ![](ppt/Diapositive3.PNG)
