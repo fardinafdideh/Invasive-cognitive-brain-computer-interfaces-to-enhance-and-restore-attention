@@ -5,7 +5,7 @@ These results demonstrate for the first time that (i) the application of attenti
 
 ![](ppt/NF2021.png)
 
-## Time-resolved Results:
+## Time-resolved Results (Developed Toolbox)
 * Cross/Within-temporal Spatial Decoding Map;
 * Temporal Analysis:
   * Raw Accuracy Time-series;
@@ -24,16 +24,16 @@ These results demonstrate for the first time that (i) the application of attenti
   
 ![](ppt/Instantaneous.gif)
 
-## Cross/Within-Temporal Decoding Map PSD (Regular and Baseline-corrected) Computation, Visualisation and Statistical Test (Two/one-sided Wilcoxon Signed Rank Sum) for All Experimental Conditions and their Combinations 
+## Cross/Within-Temporal Decoding Map PSD (Regular and Baseline-corrected) Computation, Visualisation and Statistical Test (Two/one-sided Wilcoxon Signed Rank Sum) for All Experimental Conditions and their Combinations (Developed Toolbox) 
 ![](ppt/PSD-GUI.gif)
 
-## Cross/Within-Temporal Decoding Map PSD (Regular and Corrected Versions) Computation, Visualisation, Statistical Test (Two/one-sided Wilcoxon Signed Rank Sum), and Behavioural Analysis for All Experimental Conditions and their Combinations 
+## Cross/Within-Temporal Decoding Map PSD (Regular and Corrected Versions) Computation, Visualisation, Statistical Test (Two/one-sided Wilcoxon Signed Rank Sum), and Behavioural Analysis for All Experimental Conditions and their Combinations (Developed Toolbox) 
 ![](ppt/PSD-GUI2.gif)
 
-## Statistical (Two-sided Wilcoxon Signed Rank Sum) Comparison of the Optimal Frequency, Phase, and Behavioural Performance between PreNF and PostNF, and Peak Frequencies Comparison Obtained from Behavioral and Electrophysiological Analyses in the User-Specified Frequecy-Of-Interest (FOI)
+## Statistical (Two-sided Wilcoxon Signed Rank Sum) Comparison of the Optimal Frequency, Phase, and Behavioural Performance between PreNF and PostNF, and Peak Frequencies Comparison Obtained from Behavioral and Electrophysiological Analyses in the User-Specified Frequecy-Of-Interest (FOI) (Developed Toolbox)
 ![](ppt/MUA-Behave-FOI.gif)
 
-## The Effect of Class Balancing Techniques on the Cross/Within-Temporal Decoding Maps (Accuracy and True Positive Rate):
+## The Effect of Class Balancing Techniques on the Cross/Within-Temporal Decoding Maps (Accuracy and True Positive Rate) (Developed Toolbox)
 * Minimum;
 * Synthetic Minority Oversampling Technique (SMOTE);
 * BorderlineSMOTE;
@@ -41,7 +41,7 @@ These results demonstrate for the first time that (i) the application of attenti
 * ADASYN.
 ![](ppt/CWTDM_AccTPR_detailed_balancing_.gif) 
 
-## Significance of the Cross-wavelet PSD Peak Considering the Relative Phase Tested on Simulated Noisy (Different SNRs) Oscillatory (Different Frequencies) Time-series
+## Significance of the Cross-wavelet PSD Peak Considering the Relative Phase Tested on Simulated Noisy (Different SNRs) Oscillatory (Different Frequencies) Time-series (Developed Toolbox)
 ![](ppt/NoisySignals_2Hz12.gif)
 ![](ppt/WaveletcrossPSD_2Hz12_.gif)
 
