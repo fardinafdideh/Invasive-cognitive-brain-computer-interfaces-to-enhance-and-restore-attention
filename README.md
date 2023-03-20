@@ -21,7 +21,14 @@ These results demonstrate for the first time that (i) the application of attenti
 * Relative Phase Analysis:
   * From Cross-spectrogram;
   * From Cross-coherogram.
+  
 ![](ppt/Instantaneous.gif)
+
+## Cross/Within-Temporal Decoding Map PSD (Regular and Baseline-corrected) Computation, Visualisation and Statistical Test (Two/one-sided Wilcoxon Signed Rank Sum) for All Experimental Conditions and their Combinations 
+![](ppt/PSD-GUI.gif)
+
+## Cross/Within-Temporal Decoding Map PSD (Regular and Corrected Versions) Computation, Visualisation, Statistical Test (Two/one-sided Wilcoxon Signed Rank Sum), and Behavioural Analysis for All Experimental Conditions and their Combinations 
+![](ppt/PSD-GUI2.gif)
 
 ## The Effect of Class Balancing Techniques on the Cross/Within-Temporal Decoding Maps (Accuracy and True Positive Rate):
 * Minimum;
@@ -34,12 +41,6 @@ These results demonstrate for the first time that (i) the application of attenti
 ## Significance of the Cross-wavelet PSD Peak Considering the Relative Phase Tested on Simulated Noisy (Different SNRs) Oscillatory (Different Frequencies) Time-series
 ![](ppt/NoisySignals_2Hz12.gif)
 ![](ppt/WaveletcrossPSD_2Hz12_.gif)
-
-## Cross/Within-Temporal Decoding Map PSD (Regular and Baseline-corrected) Computation, Visualisation and Statistical Test (Two/one-sided Wilcoxon Signed Rank Sum) for All Experimental Conditions and their Combinations 
-![](ppt/PSD-GUI.gif)
-
-## Cross/Within-Temporal Decoding Map PSD (Regular and Corrected Versions) Computation, Visualisation, Statistical Test (Two/one-sided Wilcoxon Signed Rank Sum), and Behavioural Analysis for All Experimental Conditions and their Combinations 
-![](ppt/PSD-GUI2.gif)
 
 ## Exploratory Research on Non-human Primate Bio-signals
 ![](ppt/Diapositive1.PNG)
