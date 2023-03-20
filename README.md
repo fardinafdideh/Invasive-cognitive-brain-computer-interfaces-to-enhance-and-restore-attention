@@ -30,6 +30,9 @@ These results demonstrate for the first time that (i) the application of attenti
 ## Cross/Within-Temporal Decoding Map PSD (Regular and Corrected Versions) Computation, Visualisation, Statistical Test (Two/one-sided Wilcoxon Signed Rank Sum), and Behavioural Analysis for All Experimental Conditions and their Combinations 
 ![](ppt/PSD-GUI2.gif)
 
+## Statistical (Two-sided Wilcoxon Signed Rank Sum) Comparison of the Optimal Frequency, Phase, and Behavioural Performance between PreNF and PostNF, and Peak Frequencies Comparison Obtained from Behavioral and Electrophysiological Analyses in the User-Specified Frequecy-Of-Interest (FOI)
+![](ppt/MUA-Behave-FOI.gif)
+
 ## The Effect of Class Balancing Techniques on the Cross/Within-Temporal Decoding Maps (Accuracy and True Positive Rate):
 * Minimum;
 * Synthetic Minority Oversampling Technique (SMOTE);
