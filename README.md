@@ -45,6 +45,9 @@ These results demonstrate for the first time that (i) the application of attenti
 ![](ppt/NoisySignals_2Hz12.gif)
 ![](ppt/WaveletcrossPSD_2Hz12_.gif)
 
+## Time-resolved Decoder (2D Regressor) Output
+![](ppt/decoderOutput-10RptFast.gif)
+
 ## Exploratory Research on Non-human Primate Bio-signals
 ![](ppt/Diapositive1.PNG)
 ![](ppt/Diapositive2.PNG)
@@ -218,6 +221,21 @@ These results demonstrate for the first time that (i) the application of attenti
 ![](ppt/Diapositive170.PNG)
 ![](ppt/Diapositive171.PNG)
 ![](ppt/Diapositive172.PNG)
+![](ppt/Diapositive173.PNG)
+![](ppt/Diapositive174.PNG)
+![](ppt/Diapositive175.PNG)
+![](ppt/Diapositive176.PNG)
+![](ppt/Diapositive177.PNG)
+![](ppt/Diapositive178.PNG)
+![](ppt/Diapositive179.PNG)
+![](ppt/Diapositive180.PNG)
+![](ppt/Diapositive181.PNG)
+![](ppt/Diapositive182.PNG)
+![](ppt/Diapositive183.PNG)
+![](ppt/Diapositive184.PNG)
+![](ppt/Diapositive185.PNG)
+![](ppt/Diapositive186.PNG)
+![](ppt/Diapositive187.PNG)
 
 # How to cite
 * F. Afdideh, J. Amengual, C. Gaillard, E. Astrand, S. Ben Hamed, “Covert spatial attention-based neurofeedback changes the neuronal population code of the frontal eye fields in an oscillatory manner: A non-human primate study,” FENS (S04-094), 9-13 Jul., 2022.
