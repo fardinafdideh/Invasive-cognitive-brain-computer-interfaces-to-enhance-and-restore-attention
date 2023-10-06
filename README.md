@@ -48,6 +48,10 @@ These results demonstrate for the first time that (i) the application of attenti
 ## Time-resolved Decoder (2D Regressor) Output
 ![](ppt/decoderOutput-10RptFast.gif)
 
+## Binning Designer: Binning Parameters Effects on the Frequency Content of the Binned Signal
+For further details, please visit [here](https://github.com/fardinafdideh/binning-designer).
+![](/ppt/all.gif)
+
 ## Exploratory Research on Non-human Primate Bio-signals
 ![](ppt/Diapositive1.PNG)
 ![](ppt/Diapositive2.PNG)
