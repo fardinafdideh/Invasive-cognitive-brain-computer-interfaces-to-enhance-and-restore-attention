@@ -3,6 +3,7 @@ The use of classification procedures to decode brain activity associated to spec
 We found that attention position was encoded differently after the NF. Specifically, we observed that after NF the spatial prefrontal population code for attention changed dynamically during the cue-to-target interval, showing an alternation between a new code and the pre-NF code. We computed the frequency of this code alternation and we found that both codes systematically alternate within the theta (4-7Hz) band, which is associated with the learning of new contingencies. Interestingly, the phase of this oscillation accounted for significant variations in behavioural performance, suggesting that these NF-induced oscillations impact both function and behavior. 
 These results demonstrate for the first time that (i) the application of attention-related NF modulates how the prefrontal cortex encodes information and (ii) these changes are a functional signature that accounts for behaviour. Altogether, our data envision the feasibility of the NF-based interventions in the attention domain with potential applications in healthy population or as a treatment for attention disorders.
 
+## NeuroFrance 2021 - FENS 2022
 ![](ppt/NF2021.png)
 
 ## Time-resolved Results (Developed Toolbox)
@@ -242,5 +243,6 @@ For further details, please visit [here](https://github.com/fardinafdideh/binnin
 ![](ppt/Diapositive187.PNG)
 
 # How to cite
-* F. Afdideh, J. Amengual, C. Gaillard, E. Astrand, S. Ben Hamed, “Covert spatial attention-based neurofeedback changes the neuronal population code of the frontal eye fields in an oscillatory manner: A non-human primate study,” FENS (S04-094), 9-13 Jul., 2022.
-* F. Afdideh, J. Amengual, C. Gaillard, E. Astrand, S. Ben Hamed, “Learning an attention-based neurofeedback impacts function and behaviour within theta band,” NeuroFrance International virtual meeting (P1.68), 19-21 May, 2021.
+* F. Afdideh, et al., “Theta Band Neuronal Population Coding Dynamics and Behavioral Performance Oscillations: Insights from Covert Spatial Attention-Based Neurofeedback in the Frontal Eye Field Area of Macaque Brains,” [in preparation](https://github.com/fardinafdideh/covert-attention-invasive-bci).
+* F. Afdideh, J. Amengual, C. Gaillard, E. Astrand, S. Ben Hamed, “Covert spatial attention-based neurofeedback changes the neuronal population code of the frontal eye fields in an oscillatory manner: A non-human primate study,” [FENS](https://www.world-wide.org/fens-22/covert-spatial-attentionbased-neurofeedback-32c868e9/) (S04-094), 9-13 Jul., 2022.
+* F. Afdideh, J. Amengual, C. Gaillard, E. Astrand, S. Ben Hamed, “Learning an attention-based neurofeedback impacts function and behaviour within theta band,” [NeuroFrance](https://www.professionalabstracts.com/nf2021/iplanner/#/list) International virtual meeting (P1.68), 19-21 May, 2021.
